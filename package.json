@@ -1,0 +1,24 @@
+{
+  "name": "required-task-7-eduardpawlow",
+  "version": "1.0.0",
+  "description": "Написать скрипт, который отобразит на странице список имен на основе данных, полученных из файла `data.json`.\r По аналогии с скриншотом:\r ![Пример карточки](./res/1.png)",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozon-edu-vue-2021/required-task-7-eduardpawlow.git"
+  },
+  "author": "eduardpawlow@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozon-edu-vue-2021/required-task-7-eduardpawlow/issues"
+  },
+  "homepage": "https://github.com/ozon-edu-vue-2021/required-task-7-eduardpawlow#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
